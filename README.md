@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # price_comparison_app
-=======
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +24,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> 0714f6d (first commit)
+
